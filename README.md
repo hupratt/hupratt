@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a freelance project
-- 🌱 Learning Typescript, algorithms and design patterns
+- 🌱 Going through Comptia linux+ cert material to pass the cert
 
 ![alt text](https://github.com/hupratt/hupratt/blob/main/collage.jpg)
