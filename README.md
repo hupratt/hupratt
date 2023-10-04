@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently going through Comptia linux+ cert material to pass the cert
+- 🌱 I'm currently going through Comptia linux+ and network+ material 
 - 🌱 Reading about entrepreneurship and security
 - 🌱 Compiling thoughts on my blogs
 
